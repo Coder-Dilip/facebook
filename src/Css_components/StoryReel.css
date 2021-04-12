@@ -1,0 +1,13 @@
+.storyReel{
+    display: flex;
+    width: 100%;
+    cursor: pointer;
+  
+    overflow-x: auto;
+    /* justify-content: space-between; */
+  
+}
+
+.storyReel::-webkit-scrollbar {
+    display: none;
+  }
